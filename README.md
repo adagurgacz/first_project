@@ -9,7 +9,8 @@ The repo consists of:
 
 To run the code it is necessary to install following libs:
 
-1)...
+1) numpy
+2) matplotlib
 
 The dataset can be found at: http://www.start.umd.edu/gtd/contact/
 
